@@ -3,4 +3,4 @@
 
 Gerenciando repositórios.
 
-<a href="https://pedroalvessbr.github.io/html-css/desafios/desafio10">Executar o desafio 10</a>
+<a href="https://pedroalvessbr.github.io/html-css/desafios/desafio10/index.html">Executar o desafio 10</a>
